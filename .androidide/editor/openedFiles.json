@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/csv-test/lib/src/test/kotlin/org/example/LibraryTest.kt",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 233,
+          "line": 12
+        },
+        "start": {
+          "column": 4,
+          "index": 233,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/csv-test/lib/src/main/kotlin/org/example/TestCsv.kt",
+      "selection": {
+        "end": {
+          "column": 106,
+          "index": 2301,
+          "line": 66
+        },
+        "start": {
+          "column": 106,
+          "index": 2301,
+          "line": 66
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/csv-test/lib/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 77,
+          "index": 1056,
+          "line": 30
+        },
+        "start": {
+          "column": 77,
+          "index": 1056,
+          "line": 30
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/csv-test/lib/src/main/resources/data.csv",
+      "selection": {
+        "end": {
+          "column": 3,
+          "index": 74,
+          "line": 4
+        },
+        "start": {
+          "column": 3,
+          "index": 74,
+          "line": 4
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/csv-test/lib/src/test/kotlin/org/example/LibraryTest.kt"
+}
